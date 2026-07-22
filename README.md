@@ -17,7 +17,7 @@ The interesting problems weren't in the UI — they were in keeping local and re
 - **SQLite triggers** enforcing invariants at the schema level, so the rules hold no matter which code path writes
 - **Migration tests** with Room's `MigrationTestHelper`, verifying data survives every schema version
 
-Kotlin · Jetpack Compose · Room · Coroutines & Flow · Hilt · WorkManager · Retrofit · Material3
+Kotlin · Jetpack Compose · Room · Coroutines & Flow · Hilt · WorkManager · Retrofit · Material 3
 
 → [TrackerForMinifiguresSeriesPublic](https://github.com/danielcoderman/TrackerForMinifiguresSeriesPublic)
 
